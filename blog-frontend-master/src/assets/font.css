@@ -1,0 +1,26 @@
+@font-face {
+    /* 重命名字体名 */
+    font-family: 'Saira Extra Condensed';
+    /* 引入字体 */
+    src: url('./fonts/SairaExtraCondensed-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    /* 重命名字体名 */
+    font-family: 'HYWenHei-85W';
+    /* 引入字体 */
+    src: url('./fonts/HYWenHei-85W.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    /* 重命名字体名 */
+    font-family: 'HYWenHei-45W';
+    /* 引入字体 */
+    src: url('./fonts/HYWenHei-45W.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
